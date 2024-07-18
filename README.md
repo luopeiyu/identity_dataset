@@ -20,7 +20,7 @@ Therefore, the dataset contains a total of around 6 million images, each with a 
 It's worth mentioning that the dataset includes a small portion of images with peculiar appearances or challenging poses that OpenPose couldn't recognize. To address this, we developed a detection script to remove these invalid data, which accounts for approximately 15% of the entire dataset.
 
 
-### download
+### Download
 Baidu Netdisk
 https://pan.baidu.com/s/1SV32HYmPuZjBzl_sRTdGzA 
 code：x1y4 
